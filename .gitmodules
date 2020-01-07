@@ -1,6 +1,4 @@
 [submodule "Submodules/TestHSModule"]
 	path = Submodules/TestHSModule
 	url = https://github.com/AleksanderUrbanowicz/HS
-[submodule "Assets/Submodules/TestHSModuleInAssets"]
-	path = Assets/Submodules/TestHSModuleInAssets
-	url = https://github.com/AleksanderUrbanowicz/HS
+
